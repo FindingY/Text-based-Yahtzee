@@ -1,5 +1,9 @@
 # Guided Lab: Build a Text-Based Yahtzee Game in Python
 
+A solution by Alec Segur
+
+https://github.com/21seguaj21/Data_Structures_Class_Yahtzee
+
 ## Overview
 
 In this lab, you will build a **text-based Yahtzee game** using Python classes.
